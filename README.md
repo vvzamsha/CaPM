@@ -1,2 +1,2 @@
-# CaPM_lesson1
+# CaPM
 collection and processing methods
